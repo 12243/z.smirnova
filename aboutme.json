@@ -4,11 +4,11 @@
       "SecondName" : "Zhanna",
       }
       "Adress" : {
-           "Country"  : "Belarus",
-           "City"  : "Minsk",
+           "Country" : "Belarus",
+           "City" : "Minsk",
            "Street" : "Garuna"
       }
       "Skills" : "Functional Testing",
       "Tools" : "JIRA",
-      "Characteristic"  : "I'm easy to learn! This is a fact!"
+      "Characteristic" : "I'm easy to learn! This is a fact!"
 }
