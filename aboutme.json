@@ -1,14 +1,14 @@
 { 
-    "AboutMe" : {
-      "FirstName" : "Smirnova",
-      "SecondName" : "Zhanna",
+    "AboutMe": {
+      "FirstName":"Smirnova",
+      "SecondName":"Zhanna",
       }
-      "Adress" : {
-           "Country" : "Belarus",
-           "City" : "Minsk",
-           "Street" : "Garuna"
+      "Adress": {
+           "Country":"Belarus",
+           "City":"Minsk",
+           "Street":"Garuna"
       }
-      "Skills" : "Functional Testing",
-      "Tools" : "JIRA",
-      "Characteristic" : "I'm easy to learn! This is a fact!"
+      "Skills":"Functional Testing",
+      "Tools":"JIRA",
+      "Characteristic":"I'm easy to learn! This is a fact!"
 }
