@@ -2,7 +2,7 @@
 "AboutMe": {
            "FirstName":"Smirnova",
            "SecondName":"Zhanna",
-           "Married" : True,
+           "Married" : "True",
       },
  "Address": {
            "Country":"Belarus",
