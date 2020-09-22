@@ -2,14 +2,14 @@
     "AboutMe": {
       "FirstName":"Smirnova",
       "SecondName":"Zhanna"
-      }
+      },
       "Address": {
            "Country":"Belarus",
            "City":"Minsk"
-      }
+      },
       "Skills": {
       "Skill": "Functional Testing",
-      "Tools":"JIRA",
+      "Tool":"JIRA",
       "Characteristic":"I'm easy to learn! This is a fact!"
       }
 }
