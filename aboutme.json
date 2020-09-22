@@ -5,8 +5,7 @@
       }
       "Address": {
            "Country":"Belarus",
-           "City":"Minsk",
-           "Street":"Garuna"
+           "City":"Minsk"
       }
       "Skills": {
       "Skill": "Functional Testing",
