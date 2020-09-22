@@ -9,8 +9,8 @@
            "City":"Minsk"
             },
   "Skills": {
-           "Skill": "Functional Testing",
-           "Tool":"JIRA",
+           "Skill": ["Functional Testing", "SQL"],
+           "Tool":["JIRA", "TestReil","Selenium","DevTools"],
            "Characteristic":"I'm easy to learn! This is a fact!"
             }
 }
