@@ -8,7 +8,9 @@
            "City":"Minsk",
            "Street":"Garuna"
       }
-      "Skills":"Functional Testing",
+      "Skills": {
+      "Functional Testing",
       "Tools":"JIRA",
       "Characteristic":"I'm easy to learn! This is a fact!"
+      }
 }
